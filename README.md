@@ -11,3 +11,6 @@ https://shorturl.at/HrOMb
 https://drive.google.com/drive/u/0/folders/11gW2bvjAm2kyF4qi3gIbke8Yn9_EPTeg
 
 https://github.com/winterrray/wt
+
+
+https://github.com/OmkarLolage21/Web-Technology-Practice-Questions
